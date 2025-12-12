@@ -33,12 +33,13 @@ My mission is to build websites and apps that feel fast, smooth, and professiona
 ✔ Git • GitHub  
 ✔ HTML 
 
-## ⚡ Soft Skills
-✔ TeamWork 
-✔ Creative  
-✔ Problem Solving 
+##  ⚡ Soft Skills  
+✔ TeamWork  
+✔ Creative   
+✔ Problem Solving   
 ✔ Adaptability  
-✔ Leadership
+✔ Leadership  
+ 
 ---
 
 ## 📦 **Featured Projects**
@@ -68,7 +69,7 @@ High-quality landing page for fitness branding and promotions.
 - Oracle SQL Developer  (NetTech India)
 - Linux (Just_code)
 
-  ## 🎯 What I'm Currently Working On
+## 🎯 What I'm Currently Working On
 - Building more React projects
 - Improving UI/UX design skills
 - Learning advanced React & API handling
