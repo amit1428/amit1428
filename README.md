@@ -86,11 +86,12 @@ High-quality landing page for fitness branding and promotions.
 ---
 
 ## 🤝 **Let's Connect**
-- 🔗 **LinkedIn:** 
 - <a href="https://www.linkedin.com/in/amit-jadhav1428" target="_blank">
   Follow on LinkedIn
 </a>
-
+- <a mailto="amitjadhav1202@gmail.com" target="_blank">
+  Follow on LinkedIn
+</a>
 - 📧 **Email:** amitjadhav1202@gmail.com  
 - 🌐 **Portfolio:** https://amitjadhav-portfolio.netlify.app/
 <p align="center">
