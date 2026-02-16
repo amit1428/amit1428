@@ -90,6 +90,7 @@ High-quality landing page for fitness branding and promotions.
   Follow on LinkedIn
 </a>
 - 📧 **Email:** amitjadhav1202@gmail.com  
+
 - <a href="https:https://amitjadhav-portfolio.netlify.app/" target="_blank">
   View My Portffolio
 </a>
