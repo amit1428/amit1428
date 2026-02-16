@@ -60,7 +60,7 @@ A clean food delivery UI with product cards & responsive layout.
 ### 🏋️ **Gym Fitness Landing Page**  
 High-quality landing page for fitness branding and promotions.  
 ⭐ Strong visuals • CTA-focused • Fully responsive 
-<a href="https://royalgymkalmboli.netlify.app/">Visit My Portfolio</a>
+<a href="https://royalfitnessclub.netlify.app//">Visit My Now</a>
 
 
 ---
