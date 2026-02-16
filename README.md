@@ -47,7 +47,7 @@ My mission is to build websites and apps that feel fast, smooth, and professiona
 ### 🔥 **Portfolio Website**  
 Beautiful personal portfolio built using React & Tailwind.  
 ⭐ Modern design • Smooth animation • Responsive everywhere  
-🔗 **https://amitjadhav-portfolio.netlify.app/
+<a href="https://amitjadhav-portfolio.netlify.app/">Visit My Portfolio</a>
 
 ---
 
@@ -86,7 +86,8 @@ High-quality landing page for fitness branding and promotions.
 ---
 
 ## 🤝 **Let's Connect**
-- 🔗 **LinkedIn:** www.linkedin.com/in/amit-jadhav1428  
+- 🔗 **LinkedIn:** 
+- <a href="linkedin.com/in/amit-jadhav1428" >Follow on LinkedIn</a> 
 - 📧 **Email:** amitjadhav1202@gmail.com  
 - 🌐 **Portfolio:** https://amitjadhav-portfolio.netlify.app/
 <p align="center">
