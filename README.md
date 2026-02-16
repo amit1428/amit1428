@@ -87,7 +87,7 @@ High-quality landing page for fitness branding and promotions.
 
 ## 🤝 **Let's Connect**
 - 🔗 **LinkedIn:** 
-- <a href="https://www.linkedin.com/in/amit-jadhav1428" target="_blank" style="color: red;">
+- <a href="https://www.linkedin.com/in/amit-jadhav1428" target="_blank">
   Follow on LinkedIn
 </a>
 
